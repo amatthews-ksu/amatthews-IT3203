@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Amanda</title>
+</head>
+
+<body>
+    <h1>Amanda D. Matthews</h1>
+    <img src="https://previews.123rf.com/images/jemastock/jemastock2009/jemastock200902276/155918893-beautiful-afro-woman-avatar-character-icon-vector-illustration-design.jpg" alt="Amanda" style="width: 125px; height: 125px; border-radius: 50%;">
+<!-- The main paragraph before the bulleted list -->
+    <p>
+        Amanda is an Information Technology Junior at Kennesaw State University with a decade of practical experience in the IT field.
+        She built her career from an entry-level help desk analyst to a desktop technician, and is now a systems operations analyst
+        at a global law firm. She earned her Associate's degree from Atlanta Technical College during the pandemic.
+    </p>
+
+<!-- The heading for your fun facts -->
+    <h3>Just for fun, here's what else you should know:</h3>
+
+<!-- The unordered list for the bullet points -->
+    <ul>
+    <li>She's an Atlanta native.</li>
+    <li>She is a proud dog mom to a two-year-old Rottweiler named Huncho.</li>
+    <li>Her last trip was to Costa Rica, fulfilling her love for travel.</li>
+    <li>She is addicted to tacos and is always on the hunt for the next best one.</li>
+    </ul>
+    </p>
+</body>
+</html>
